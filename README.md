@@ -33,7 +33,14 @@ Desejamos-lhe todo o sucesso em sua preparação para as Olimpíadas Universitá
 Este é um curso de extensão para treinamento e olimpíadas matemáticas universitárias promovido em conjunto pela UNIRIO e UFRJ. Contato pelo email romu@ic.ufrj.br.
 
 ## Fluxo do Curso 
-```mermaid
- graph LR
-A(Matemática Discreta) -- Semana 1 --> C(Geometria) --> D(Álgebra Linear)
-```
+
+-  Boas Vindas
+-  Nivelamento
+-  Matemática Discreta
+-  Teoria dos números
+-  Álgebra Linear
+-  Geometria Analítica
+-  Algebra
+-  Cálculo e Álgebra
+- Análise Real
+- Avaliação Final
